@@ -1,0 +1,25 @@
+{
+  "name": "angular-uitid-service",
+  "description": "Angular service for uitid integration",
+  "main": "src/angular-uitid-service.js",
+  "version": "0.0.1",
+  "authors": [
+    "zuuperman <nils.destoop@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cultuurnet/angular-uitid-service",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.3.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.3.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
