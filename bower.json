@@ -1,7 +1,7 @@
 {
   "name": "angular-uitid-service",
   "description": "Angular service for uitid integration",
-  "main": "src/angular-uitid-service.js",
+  "main": "src/uitid.module.js",
   "version": "0.0.1",
   "authors": [
     "zuuperman <nils.destoop@gmail.com>"
